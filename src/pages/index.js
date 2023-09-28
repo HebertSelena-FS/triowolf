@@ -35,7 +35,7 @@ const linkStyle = {
 
 
 const descriptionStyle = {
-  color: "#232129",
+  color: "#5a4d81",
   fontSize: 14,
   marginTop: 10,
   marginBottom: 0,
@@ -59,13 +59,26 @@ const badgeStyle = {
   marginLeft: 10,
   lineHeight: 1,
 }
+//  temp domain till triowolf.com is available
+// polite-kashata-d7ea18.netlify.app
+// template for adding a new listing
+// {
+//   text: "fill in name",
+//   url: "https://polite-kashata-d7ea18.netlify.app/blog/name of post",
+//   badge: true,
+//   description:
+//     "Now you’re ready to show the world! Give your Gatsby site superpowers: Build and host on Gatsby Cloud. Get started for free!",
+//   color: "#663399", edits the bullet color
+// },
 
 const links = [
   {
     text: "testing",
-    url: "http://localhost:8000/blog/testing",
+    // url: "http://localhost:8000/blog/testing",
+    url: "http://polite-kashata-d7ea18.netlify.app/blog/testing",
     description: "just testing if this works.",
-    color: 'rgb(139, 81, 141)'
+    color: 'rgb(139, 81, 141)',
+    badge: true,
   },
   {
     text: "About",
