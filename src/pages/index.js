@@ -74,8 +74,8 @@ const badgeStyle = {
 const links = [
   {
     text: "testing",
-    url: "http://localhost:8000/blog/testing",
-    // url: "http://polite-kashata-d7ea18.netlify.app/blog/testing",
+    // url: "http://localhost:8000/blog/testing",
+    url: "http://polite-kashata-d7ea18.netlify.app/blog/testing",
     description: "just testing if this works.",
     color: 'rgb(139, 81, 141)',
     badge: true,
