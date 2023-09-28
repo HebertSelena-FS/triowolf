@@ -73,18 +73,12 @@ const badgeStyle = {
 
 const links = [
   {
-    text: "testing",
+    text: "Testing",
     // url: "http://localhost:8000/blog/testing",
     url: "http://polite-kashata-d7ea18.netlify.app/blog/testing",
     description: "just testing if this works.",
     color: 'rgb(139, 81, 141)',
     badge: true,
-  },
-  {
-    text: "About",
-    url: "http://localhost:8000/About/",
-    description: "about page to learn more about me as a developer.",
-    color: 'rgb(139, 81, 141)'
   },
   {
     text: "Tutorial",
