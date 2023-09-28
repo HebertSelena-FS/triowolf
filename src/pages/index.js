@@ -35,7 +35,7 @@ const linkStyle = {
 
 
 const descriptionStyle = {
-  color: "#232129",
+  color: "#5a4d81",
   fontSize: 14,
   marginTop: 10,
   marginBottom: 0,
