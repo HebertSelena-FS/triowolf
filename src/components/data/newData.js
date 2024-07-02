@@ -1,0 +1,15 @@
+export const homeArtistThree = {
+    id: 'new',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topline: "",
+    headline: "The Developers",
+    description: "Currently I am a solo developer. I am a full stack developer with a Batchelors from Full Sail University.",
+    buttonlabel: 'Learn more',
+    buttonicon: true,
+    imgStart: false,
+    dark: true,
+    primary: true,
+    darkText: false,
+};  

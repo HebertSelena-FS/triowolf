@@ -1,0 +1,16 @@
+export const homeArtistTwo = {
+    id: 'music',
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,        
+    GWTitle: "grengingwar.com",     
+    GWdescription: "Project Description",     
+    BamTitle: "",     
+    Bamdescription: "Project Description",     
+    buttonlabel: 'Next',
+    imgStart: true,
+    img: require('../../images/pexels-rdne-7551442.jpg'),
+    dark: false,
+    primary: false,
+    darkText: true,
+};

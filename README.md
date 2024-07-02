@@ -1,49 +1,132 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby Minimal Starter
-</h1>
 
-## 🚀 Quick start
+# 💻 Project & Portfolio II
 
-1.  **Create a Gatsby site.**
+# Project Name: WDP2 Portfolio Project
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
+### Tisha Di Fresco
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
+🆔 &nbsp; 0005019301
 
-2.  **Start developing.**
+📪 &nbsp; tbdifresco@student.fullsail.edu
 
-    Navigate into your new site’s directory and start it up.
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+![Degree Program](https://img.shields.io/badge/Degree-Web%20Development-orange?logo=gnometerminal)
+<br>
+![Class Name](https://img.shields.io/badge/Class-Project%20and%20Portfolio%20II-orange?logo=react)
 
-3.  **Open the code and start customizing!**
 
-    Your site is now running at http://localhost:8000!
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+<br>
 
-4.  **Learn more**
+## 📢 &nbsp; Milestone Check-Ins
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Tutorials](https://www.gatsbyjs.com/docs/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Guides](https://www.gatsbyjs.com/docs/how-to/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+Each week I will summarize my milestone activity and progress by writing a stand-up. A stand-up is meant to be a succinct update on how things are going. Use these prompts as a guide on what to write about:
 
-## 🚀 Quick start (Netlify)
+⚙️ Overview - What I worked on this past week
+<br>
+🌵 Challenges - What problems did I have & how I'm addressing them
+<br>
+🏆 Accomplishments - What is something I "leveled up" on this week
+<br>
+🔮 Next Steps - What I plan to prioritize and do next
 
-Deploy this starter with one click on [Netlify](https://app.netlify.com/signup):
+<br>
 
-[<img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify" />](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-minimal)
+### Milestone 1
+
+For this milestone you will have created a wireframe prototype in Figma.  Post your link here, so you have easy access to it.
+
+[Figma Prototype](https://www.figma.com/file/huUi5XARBGPB4kvwUnMFI5/Project-Prototype-EPK?node-id=0%3A1)
+
+### Milestone 2
+
+What are the 4 pages/ views that you have built and how will they be used on your site?
+
+### Milestone 3
+
+Please discuss the following:
+API
+- Link to the API that is used in your code
+- Reason you chose the API
+
+1st Library
+-Link to the library
+-Link to library tutorial that you made already.
+-Reason you chose this library.
+
+2nd Library
+-Link to the library
+-Reason you chose this library.
+
+Persistent Data
+-Discuss if you have used MongoDB or Local Storage and how it was used in your code.
+
+
+### Milestone 4
+
+Changes
+- Discuss any changes or updates that you have made to your site since Milestone #3.
+
+Styling
+-Discuss the process you used to style your page.
+
+Link To Overview Video
+-Once it is created, put the link to your overview video of your site here.
+
+<br>
+<br>
+<hr/>
+
+# Project Overview
+
+### Your project will use the MERN Tech Stack and must include the following:
+
+-   A Git Repo, with a master, dev, and milestone branches
+-   Readme File that explains your project and tracks your milestones
+-   A React Front End
+-   React Routing with  _at least_  4 different views/pages
+    -   Dashboard/Main
+    -   User/Settings
+    -   Search
+    -   Detail Page
+-   Node/Express Backend
+-   A Mongo DB Element OR Local Storage for persistent data
+-   Connect to at least 1 free API
+-   The project must use at least 2 different libraries, not including React itself
+    -   One of these libraries you will create a tutorial for in Exercise 01
+-   It should look visually appealing and must be easy for the end-user to use and understand. You may use Tailwind or any other front-end library/framework.
+
+**Milestone #1 (Due: Monday of Week 2)**
+
+-   Decide on your topic and theme for your project.
+    -   Check out the Free API sites for some ideas of an API that you can utilize
+        -   [Apipheny](https://apipheny.io/free-api/)  
+            
+        -   [Mixed Analytics](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)  
+            
+        -   [I Am Sajan](https://iamsajan.com/free-api-without-an-api-key/)  
+            
+-   Functional Spec that explains the scope of the work and the deadlines that must be met.  
+    
+-   Create a Wireframe Prototype in Figma that will help non-tech people understand your idea.
+    -   Keep in mind that a lot of your bosses will need only high-level concepts and will not be concerned with the actual code. The code is your job.
+
+**Milestone #2 **(Due: Monday of Week 3)****
+
+-   Create your Git Repo using the provided link, which will clone over a blank repo.
+-   Start to code your project.
+    -   I will not give you a step-by-step guide for this.
+    -   At this point, you must use your skills and build it out yourself.
+-   Along the way, if you get stuck, you may reach out to the lab assistants, but remember this is YOUR portfolio project, and troubleshooting your own code is a part of this process.
+-   By Milestone #2, I am going to be checking that you have a React app that can compile without error and that you have your navigation up and running.
+
+**Milestone #3 **(Due: Monday of Week 4)****
+
+-   By this point, you should have a functional prototype of your project. It might not look pretty yet, but that is what the final week is for.
+-   Your Git Repo should have a number of significant commits pushed to it.
+
+**Milestone #4 **(Due: Sunday of Week 4)****
+
+-   Your completed project will be due.
+-   You must create a (3 to 10) minute long video that goes through your project, what you did this month, and the technologies that you used to get it working.
+    -   Remember it is your job to sell your work and really show it off.

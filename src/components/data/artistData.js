@@ -1,0 +1,16 @@
+export const homeArtistOne = {
+    id: 'bio',
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topline: 'About',
+    headline: 'TrioWolf',
+    description: `Welcome to Triowolf, where integrity, loyalty, and honor form the foundation of our web development company. At Triowolf, we believe that building a successful digital presence starts with trust and dedication. Our team is committed to delivering exceptional web solutions that not only meet but exceed our clients' expectations. With a strong emphasis on quality, transparency, and ethical practices, we strive to create websites that are not only visually stunning but also highly functional and user-friendly. Join us on a journey where your vision meets our expertise, and together, we'll bring your digital dreams to life.`,
+    buttonlabel: 'Take a Tour',
+    imgStart: false,
+    img: require('../../images/pexels-pixabay-461049.jpg'),
+    alt: 'galaxy',
+    dark: true,
+    primary: true,
+    darkText: false,
+}
