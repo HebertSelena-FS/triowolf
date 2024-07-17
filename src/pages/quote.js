@@ -3,6 +3,7 @@ import API from '../components/api/API';
 import QuoteHeader from '../components/thoughts/QuoteHeader';
 import Footer from '../components/footer/Footer'
 import Header from '../components/header/Header'
+import { Analytics } from "@vercel/analytics/react"
 import "./quote.css"
 
 const QuotePage = () => {
@@ -17,6 +18,7 @@ const QuotePage = () => {
       <div>
         <Footer/>
       </div>
+      <Analytics />
     </div>    
   );
 };

@@ -11,6 +11,7 @@ import { homeArtistOne } from '../components/data/artistData';
 import { homeArtistTwo } from '../components/data/musicData';
 import { homeArtistThree } from '../components/data/newData';
 import { homeArtistFour } from '../components/data/thoughtsData';
+import { Analytics } from "@vercel/analytics/react"
 
 const Home = () => {
   
@@ -30,6 +31,7 @@ const Home = () => {
         <NewSection {...homeArtistThree}/>  
         <Thoughts {...homeArtistFour} />        
         <Footer />  
+        <Analytics/>
     </>
   );
 };
