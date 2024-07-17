@@ -1,0 +1,11 @@
+.beta {
+  color: red;
+  background-color: green !important;
+  display: flex ;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 34.5vh;
+  margin-bottom: 34.2vh;
+  text-align: center;
+}
